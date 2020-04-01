@@ -1,0 +1,5 @@
+[1/1] Re-running CMake...
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/27796/jingsai/chePai/EasyPR4Android-master/app/.externalNativeBuild/cmake/debug/arm64-v8a
+FAILED: C:\Users\27796\mWork\android-sdk-windows\cmake\3.6.4111459\bin\cmake.exe -HC:\Users\27796\jingsai\chePai\EasyPR4Android-master\app -BC:\Users\27796\jingsai\chePai\EasyPR4Android-master\app\.externalNativeBuild\cmake\debug\arm64-v8a

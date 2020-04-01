@@ -1,0 +1,4 @@
+C:/Users/27796/jingsai/chePai/EasyPR4Android-master/app/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/app.dir
+C:/Users/27796/jingsai/chePai/EasyPR4Android-master/app/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/27796/jingsai/chePai/EasyPR4Android-master/app/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/mrcar.dir
+C:/Users/27796/jingsai/chePai/EasyPR4Android-master/app/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/rebuild_cache.dir
